@@ -1,91 +1,51 @@
 body {
-  font-family: sans-serif;
-  background-color: #F2F2F2;
-  margin: 0;
-  padding: 0;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-/* Main container */
-
-.main-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  height: 100vh;
-  background-image: url('https://cdn.ebio.gg/background/78325d0f-b781-4d78-8148-a6f8919997ee.png');
-  background-size: cover;
-  background-position: center;
-}
-
-/* Profile card */
-
-.profile-card {
-  width: 300px;
-  height: auto;
-  background-color: #000000;
-  border-radius: 20px;
-  padding: 20px;
-  box-shadow: 0 5px 10px #000000;
-}
-
-.profile-card .profile-image {
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
-  border: 2px solid #ffffff;
-  margin-bottom: 20px;
-}
-
-.profile-card .profile-name {
-  font-size: 24px;
-  color: #ffffff;
-  text-align: center;
-}
-
-.profile-card .profile-description {
-  font-size: 16px;
-  color: #ffffff;
-  text-align: center;
-}
-
-/* Social icons */
-
-.social-icons {
-  display: flex;
-  justify-content: center;
-  margin-bottom: 20px;
-}
-
-.social-icons a {
-  text-decoration: none;
-  margin: 0 10px;
-}
-
-.social-icons img {
-  width: 30px;
-  height: 30px;
-}
-
-/* Discord presence */
-
-.discord-presence {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  padding: 20px;
-  border-radius: 10px;
-  background-color: #006aff;
-  color: #ffffff;
-  margin-bottom: 20px;
-}
-
-.discord-presence p {
-  font-size: 16px;
-  text-align: center;
-}
+    font-family: sans-serif;
+    background-color: #f2f2f2;
+  }
+  
+  header {
+    background-color: #212121;
+    padding: 20px;
+  }
+  
+  header img {
+    width: 100%;
+    height: auto;
+  }
+  
+  header h1 {
+    color: white;
+    font-size: 3rem;
+  }
+  
+  header p {
+    color: #ccc;
+    font-size: 1.5rem;
+  }
+  
+  section {
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  section h2 {
+    margin-top: 0;
+    color: #007bff;
+    font-size: 2rem;
+  }
+  
+  section p {
+    margin-top: 10px;
+    font-size: 1.5rem;
+  }
+  
+  footer {
+    background-color: #212121;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer p {
+    color: white;
+    font-size: 1.5rem;
+  }
