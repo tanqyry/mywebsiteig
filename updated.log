@@ -1,0 +1,628 @@
+[07/09/2025 13:49:08 PM] Organising filesystem
+[07/09/2025 13:49:09 PM] ATLauncher Version: 3.4.40.2 [9818b0b4145eae2d08c2bddef95db27607e01540]
+[07/09/2025 13:49:09 PM] App Arguments: []
+[07/09/2025 13:49:09 PM] JVM Arguments: ["-Djna.nosys=true","-Djava.net.preferIPv4Stack=true","-Dawt.useSystemAAFontSettings=on","-Dswing.aatext=true"]
+[07/09/2025 13:49:09 PM] Java Version: Java 17 (17.0.9)
+[07/09/2025 13:49:09 PM] 64 Bit Java: true
+[07/09/2025 13:49:09 PM] RAM Available: 32558MB
+[07/09/2025 13:49:09 PM] Launcher Directory: **USERSDIR**
+[07/09/2025 13:49:09 PM] GPU: NVIDIA GeForce RTX 3050 (NVIDIA) 32.0.15.7688 6144MB VRAM
+[07/09/2025 13:49:09 PM] CPU: AMD Ryzen 5 5500 6 cores/12 threads
+[07/09/2025 13:49:09 PM] Operating System: Windows (11 build 26100)
+[07/09/2025 13:49:09 PM] Bitness: 64
+[07/09/2025 13:49:09 PM] Uptime: 9536
+[07/09/2025 13:49:09 PM] Manufacturer: Microsoft
+[07/09/2025 13:49:16 PM] Showing splash screen and loading everything
+[07/09/2025 13:49:16 PM] Checking for updated files!
+[07/09/2025 13:49:17 PM] Finished downloading updated files!
+[07/09/2025 13:49:19 PM] Checking for updates to Modrinth instances
+[07/09/2025 13:49:19 PM] Launcher finished loading everything
+[07/09/2025 13:49:19 PM] Launcher opening
+[07/09/2025 13:49:19 PM] Made By Bob*
+[07/09/2025 13:49:19 PM] *(Not Actually)
+[07/09/2025 13:49:19 PM] Setting up Bottom Bar
+[07/09/2025 13:49:19 PM] Finished Setting up Bottom Bar
+[07/09/2025 13:49:19 PM] Setting up Tabs
+[07/09/2025 13:49:19 PM] Finished Setting up Tabs
+[07/09/2025 13:49:19 PM] Showing Launcher
+[07/09/2025 13:56:19 PM] httpscdnmodrinthcomdataWtfpyicLd3abefcbeb5849d7744c71b09fe97e79e6f0362dpng (of size 1800) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 13:56:19 PM] httpscdnmodrinthcomdatao2ekSuCsb6979e50637dc40446cf5cd96696d2030c619115png (of size 444) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 13:56:19 PM] httpscdnmodrinthcomdataYHMW0bzCa908add4384a05a7faf647058c03cc7ec4efb265jpeg (of size 2811) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 13:56:53 PM] Mod is a duplicate: GlitchCore-fabric-1.21-2.0.0.3.jar
+[07/09/2025 13:58:08 PM] httpscdnmodrinthcomdatawyk6WIE781f1d4ddc60f723bedcd81017c32a9198fb78717png (of size 5276) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 13:58:08 PM] httpscdnmodrinthcomdataKHJUvArAeb9021f5a9166aa34fca459f7a2a9d8c2083cb90png (of size 203) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 13:58:08 PM] httpscdnmodrinthcomdatakuRp6C263bda0f2a1fcf88325105e8f0afde4be52bb5b15fpng (of size 696) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 13:58:27 PM] httpscdnmodrinthcomdataagojUXVe3d72f7cfc35c8cfba9e74c34e4447c1792bf9f0bpng (of size 230) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 13:58:28 PM] httpscdnmodrinthcomdatalnkBxOUQb3f59554d5ead0b6bb0ab3aba42f70012a1491c0png (of size 4531) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 13:58:28 PM] httpscdnmodrinthcomdatapNQI5l3U82631892ebc4779046b5b76b730c3335788313acpng (of size 705) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 13:58:45 PM] CurseForge API returned no results for https://api.curseforge.com/v1/mods/search?gameId=432&amp;classId=6&amp;searchFilter=lumber&amp;sortField=Popularity&amp;sortOrder=desc&amp;pageSize=20&amp;index=0&amp;modLoaderTypes=[
+  4
+]&amp;gameVersion=1.21
+[07/09/2025 13:59:22 PM] java.util.concurrent.ExecutionException: java.nio.file.AccessDeniedException: **USERSDIR**\cache\remote_image
+[07/09/2025 13:59:22 PM] 	at java.base/java.util.concurrent.FutureTask.report(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.base/java.util.concurrent.FutureTask.get(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/javax.swing.SwingWorker.get(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at com.atlauncher.workers.BackgroundImageWorker.done(BackgroundImageWorker.java:93)
+[07/09/2025 13:59:22 PM] 	at java.desktop/javax.swing.SwingWorker$5.run(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/javax.swing.SwingWorker$DoSubmitAccumulativeRunnable.run(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/sun.swing.AccumulativeRunnable.run(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/javax.swing.SwingWorker$DoSubmitAccumulativeRunnable.actionPerformed(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/javax.swing.Timer.fireActionPerformed(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/javax.swing.Timer$DoPostEvent.run(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.event.InvocationEvent.dispatch(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.WaitDispatchSupport$2.run(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.WaitDispatchSupport$4.run(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.WaitDispatchSupport$4.run(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.WaitDispatchSupport.enter(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.Dialog.show(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.Component.show(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.Component.setVisible(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.Window.setVisible(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.Dialog.setVisible(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at com.atlauncher.gui.card.InstanceCard.lambda$addActionListeners$34(InstanceCard.java:508)
+[07/09/2025 13:59:22 PM] 	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.Component.processMouseEvent(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/javax.swing.JComponent.processMouseEvent(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.Component.processEvent(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.Container.processEvent(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.Component.dispatchEventImpl(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.Container.dispatchEventImpl(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.Component.dispatchEvent(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.Container.dispatchEventImpl(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.Window.dispatchEventImpl(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.Component.dispatchEvent(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.EventQueue$5.run(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.EventQueue$5.run(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/java.awt.EventDispatchThread.run(Unknown Source)
+[07/09/2025 13:59:22 PM] Caused by: java.nio.file.AccessDeniedException: **USERSDIR**\cache\remote_image
+[07/09/2025 13:59:22 PM] 	at java.base/sun.nio.fs.WindowsException.translateToIOException(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.base/java.nio.file.Files.newByteChannel(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.base/java.nio.file.Files.newByteChannel(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.base/java.nio.file.Files.newInputStream(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at com.atlauncher.workers.BackgroundImageWorker.doInBackground(BackgroundImageWorker.java:64)
+[07/09/2025 13:59:22 PM] 	at com.atlauncher.workers.BackgroundImageWorker.doInBackground(BackgroundImageWorker.java:36)
+[07/09/2025 13:59:22 PM] 	at java.desktop/javax.swing.SwingWorker$1.call(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.desktop/javax.swing.SwingWorker.run(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[07/09/2025 13:59:22 PM] 	at java.base/java.lang.Thread.run(Unknown Source)
+[07/09/2025 13:59:50 PM] httpscdnmodrinthcomdataQYbsaZQGd8dd10a023449d4b86188d7b37d85e93dfc3b72cpng (of size 200) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 13:59:50 PM] httpscdnmodrinthcomdataLf4kDKU99dcde4318df7cf010f06c47049549dc9b17ec287png (of size 2809) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 13:59:50 PM] httpscdnmodrinthcomdataV2kNw0dSe45363dd7baf58551cb277af79b7ac8d39a81b9fpng (of size 4970) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 13:59:50 PM] httpscdnmodrinthcomdataCIfCvYLI363b9b98ef0db163c6b9c994c80e5a784034ebdcgif (of size 197441) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 13:59:50 PM] httpscdnmodrinthcomdataYHdR6hMticonpng (of size 3879) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 13:59:50 PM] httpscdnmodrinthcomdatanmxvfgSx88062314c28cdd8a662a06129e7acaffcb6a5664png (of size 3784) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 13:59:50 PM] httpscdnmodrinthcomdataKd03i2oU5bfab0390b4655470b95b80824df9ffe6e280514png (of size 5110) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:00:27 PM] httpscdnmodrinthcomdataN72bKhby9818e264d5e99ceb7231172059db862b544a245bpng (of size 4821) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:00:27 PM] httpscdnmodrinthcomdata82BWabBjb4d4d9cbfc75c82314d29886d5c77e99f0c43630png (of size 579) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:00:27 PM] httpscdnmodrinthcomdataWowI0x1a64c59a956cd4cd5b150e8b32e5e9706967873749png (of size 429) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:00:27 PM] httpscdnmodrinthcomdata5JZ1rVU633616a3cc694796dcf01efda8d91a34d5f9e12bcpng (of size 550) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:00:27 PM] httpscdnmodrinthcomdataW296hfQ638c3e2724035780379ca0d952e85b54290b4131epng (of size 2102) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:00:27 PM] httpscdnmodrinthcomdataP7SsQE5n26a336cc914bc4b5eac75194a10bca5c19eed2efpng (of size 1155) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:00:27 PM] httpscdnmodrinthcomdata3bFvpYxQ7ee53140d5c945d74cdc14f85806fc60d4872f7ejpeg (of size 5420) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:00:27 PM] httpscdnmodrinthcomdataSKXRTckfcf6b0ba3c7e2a4715e2c19d2565a38ed78a058c0png (of size 2140) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:00:27 PM] httpscdnmodrinthcomdatadJdCgPMh6bda381ced410f8f89ca6489a9163c580454dc56png (of size 1043) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:00:27 PM] httpscdnmodrinthcomdata8lNgRGJDbe5622470c8bd2db8b5261d524dc61c282b6a83fpng (of size 1013) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:01:00 PM] httpscdnmodrinthcomdatawbWoo11W67f7bec961dee33edd40f0578d952b31302606e7png (of size 2423) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:01:00 PM] httpscdnmodrinthcomdataw8EUWIuHc0f292db29b3138d00bb50fc78cfe73ba1532deapng (of size 2398) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:01:00 PM] httpscdnmodrinthcomdataBXUPspAx8a88054cbfbe0a0864e903b191c802c2eb04c120png (of size 11769) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:01:00 PM] httpscdnmodrinthcomdatajhxX1zVW148958d15ff2026d7cd35f4e308ec4b54609cc7cpng (of size 810) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:01:46 PM] Disposal was interrupted:
+[07/09/2025 14:01:46 PM] java.lang.InterruptedException
+[07/09/2025 14:01:46 PM] 	at java.base/java.lang.Object.wait(Native Method)
+[07/09/2025 14:01:46 PM] 	at java.base/java.lang.Object.wait(Unknown Source)
+[07/09/2025 14:01:46 PM] 	at java.desktop/java.awt.EventQueue.invokeAndWait(Unknown Source)
+[07/09/2025 14:01:46 PM] 	at java.desktop/java.awt.Window.doDispose(Unknown Source)
+[07/09/2025 14:01:46 PM] 	at java.desktop/java.awt.Dialog.doDispose(Unknown Source)
+[07/09/2025 14:01:46 PM] 	at java.desktop/java.awt.Window.dispose(Unknown Source)
+[07/09/2025 14:01:46 PM] 	at com.atlauncher.gui.dialogs.ProgressDialog.close(ProgressDialog.java:160)
+[07/09/2025 14:01:46 PM] 	at com.atlauncher.gui.dialogs.ModrinthVersionSelectorDialog.lambda$setupComponents$6(ModrinthVersionSelectorDialog.java:311)
+[07/09/2025 14:01:46 PM] 	at java.base/java.lang.Thread.run(Unknown Source)
+[07/09/2025 14:01:51 PM] httpscdnmodrinthcomdataTi7URSCndd1da7f4c4e7d6e32d86ec32b71412d59aa584f8png (of size 4866) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:01:51 PM] httpscdnmodrinthcomdataRY1ITisM641cb90028ba9b493ee1fc24ce90cc830d80509cgif (of size 27891) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:01:51 PM] httpscdnmodrinthcomdataDHbvcFAr672e25a5e4be82fc5a2f0571674a60fcaa0e8299png (of size 2061) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:01:51 PM] httpscdnmodrinthcomdataEIyCildu904b92023f10c2e44750be9405c477b76f3e2bb4png (of size 1115) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:01:51 PM] httpscdnmodrinthcomdataMmUmcwomdc78bb10171a320f5d79b2b220ae47ecb9da65f0png (of size 251) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:01:51 PM] httpscdnmodrinthcomdataxZUFmYJ54b3b4e2c012ea77f7c66df2de7ba4876722e377ejpeg (of size 7386) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:01:51 PM] httpscdnmodrinthcomdataxQAP6sbq5883924ae7a50ba5adf4595aecda3b8512e6fcbepng (of size 815) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:01:51 PM] httpscdnmodrinthcomdataEfcAYyUG9fd4dfb79de1d353bb6cc43c426881f604260dc1png (of size 885) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:01:51 PM] httpscdnmodrinthcomdataNhwceuDF2bef0abbe3731481eff692ab7dde05b4312e450epng (of size 484) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:02:00 PM] httpscdnmodrinthcomdatarX9CuCdA79eb07825015489e87f266d3f9b0a2f560287daapng (of size 432) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:02:00 PM] httpscdnmodrinthcomdataxfnHnmrO14ff195a314b70449d06d07b71ac5af818b22102png (of size 455) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:02:00 PM] httpscdnmodrinthcomdatam9riIbpQ52f52b9a465c2aa2b7ffd23e38a2a9989e210d1bpng (of size 471) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:02:00 PM] httpscdnmodrinthcomdataymrMIbqob507058e1551f24890497d31869334fb148a5ff1png (of size 833) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:02:00 PM] httpscdnmodrinthcomdataeJZKQKzMdcdfdd91b05b5be0494e723e379e37489e2c787dpng (of size 430) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:02:00 PM] httpscdnmodrinthcomdatakgvL4ffX16177d32b1de5bab96aa6d16d66be4dbd31666b3png (of size 848) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:02:00 PM] httpscdnmodrinthcomdatacqIcXVf50ed1b2779d8be6a1010e74f71cd8cd4a3b91095apng (of size 878) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:02:00 PM] httpscdnmodrinthcomdata81LiVMcA1e5526ffa61e834dd0296cebe39d782ce1fcb921png (of size 871) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:02:00 PM] httpscdnmodrinthcomdataDxSJUAv862d8a7b5723b4540b0bb68bd73209a412e21411apng (of size 801) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:02:00 PM] httpscdnmodrinthcomdataWbAruEQvb65b611be69cd644e9ccf343aef73ca4f27f4728png (of size 3828) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:02:00 PM] httpscdnmodrinthcomdatavytbdp9G83ec06cb45bdec84cf4fcecbeaab0172eaf68803png (of size 855) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:02:00 PM] httpscdnmodrinthcomdata49YsmTu22462ef0f7cdb9e373a63e0fcee28695e11ff8560png (of size 473) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:02:00 PM] httpscdnmodrinthcomdata6WlIIH7le4aa59a4e46f7fcbcedd2fe3574b87d7ff50ab1epng (of size 818) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:02:02 PM] java.util.concurrent.ExecutionException: java.nio.file.AccessDeniedException: **USERSDIR**\cache\remote_image
+[07/09/2025 14:02:02 PM] 	at java.base/java.util.concurrent.FutureTask.report(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.base/java.util.concurrent.FutureTask.get(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/javax.swing.SwingWorker.get(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at com.atlauncher.workers.BackgroundImageWorker.done(BackgroundImageWorker.java:93)
+[07/09/2025 14:02:02 PM] 	at java.desktop/javax.swing.SwingWorker$5.run(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/javax.swing.SwingWorker$DoSubmitAccumulativeRunnable.run(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/sun.swing.AccumulativeRunnable.run(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/javax.swing.SwingWorker$DoSubmitAccumulativeRunnable.actionPerformed(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/javax.swing.Timer.fireActionPerformed(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/javax.swing.Timer$DoPostEvent.run(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.event.InvocationEvent.dispatch(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.WaitDispatchSupport$2.run(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.WaitDispatchSupport$4.run(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.WaitDispatchSupport$4.run(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.WaitDispatchSupport.enter(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.Dialog.show(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.Component.show(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.Component.setVisible(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.Window.setVisible(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.Dialog.setVisible(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at com.atlauncher.gui.card.InstanceCard.lambda$addActionListeners$34(InstanceCard.java:508)
+[07/09/2025 14:02:02 PM] 	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.Component.processMouseEvent(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/javax.swing.JComponent.processMouseEvent(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.Component.processEvent(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.Container.processEvent(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.Component.dispatchEventImpl(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.Container.dispatchEventImpl(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.Component.dispatchEvent(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.Container.dispatchEventImpl(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.Window.dispatchEventImpl(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.Component.dispatchEvent(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.EventQueue$5.run(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.EventQueue$5.run(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/java.awt.EventDispatchThread.run(Unknown Source)
+[07/09/2025 14:02:02 PM] Caused by: java.nio.file.AccessDeniedException: **USERSDIR**\cache\remote_image
+[07/09/2025 14:02:02 PM] 	at java.base/sun.nio.fs.WindowsException.translateToIOException(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.base/java.nio.file.Files.newByteChannel(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.base/java.nio.file.Files.newByteChannel(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.base/java.nio.file.Files.newInputStream(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at com.atlauncher.workers.BackgroundImageWorker.doInBackground(BackgroundImageWorker.java:64)
+[07/09/2025 14:02:02 PM] 	at com.atlauncher.workers.BackgroundImageWorker.doInBackground(BackgroundImageWorker.java:36)
+[07/09/2025 14:02:02 PM] 	at java.desktop/javax.swing.SwingWorker$1.call(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.desktop/javax.swing.SwingWorker.run(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[07/09/2025 14:02:02 PM] 	at java.base/java.lang.Thread.run(Unknown Source)
+[07/09/2025 14:02:14 PM] httpscdnmodrinthcomdataxEItlMn349ba53348dd4902ad2a3ae49cc643550ead201bcpng (of size 5541) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:02:14 PM] httpscdnmodrinthcomdataBkTdFBUU4db932c7cf82784b517f138b3c0f184522777d12png (of size 3171) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:02:14 PM] httpscdnmodrinthcomdataBS9T99lD477098fb4f9e5404c6437253892729f4be550c00png (of size 1082) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:02:56 PM] Disposal was interrupted:
+[07/09/2025 14:02:56 PM] java.lang.InterruptedException
+[07/09/2025 14:02:56 PM] 	at java.base/java.lang.Object.wait(Native Method)
+[07/09/2025 14:02:56 PM] 	at java.base/java.lang.Object.wait(Unknown Source)
+[07/09/2025 14:02:56 PM] 	at java.desktop/java.awt.EventQueue.invokeAndWait(Unknown Source)
+[07/09/2025 14:02:56 PM] 	at java.desktop/java.awt.Window.doDispose(Unknown Source)
+[07/09/2025 14:02:56 PM] 	at java.desktop/java.awt.Dialog.doDispose(Unknown Source)
+[07/09/2025 14:02:56 PM] 	at java.desktop/java.awt.Window.dispose(Unknown Source)
+[07/09/2025 14:02:56 PM] 	at com.atlauncher.gui.dialogs.ProgressDialog.close(ProgressDialog.java:160)
+[07/09/2025 14:02:56 PM] 	at com.atlauncher.gui.dialogs.ModrinthVersionSelectorDialog.lambda$setupComponents$6(ModrinthVersionSelectorDialog.java:311)
+[07/09/2025 14:02:56 PM] 	at java.base/java.lang.Thread.run(Unknown Source)
+[07/09/2025 14:02:57 PM] httpscdnmodrinthcomdataBrRak9pu5da818a17671dd9fc72f3ed184183ceca4a0d5b3png (of size 1010) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:02:58 PM] httpscdnmodrinthcomdataOT1P0oHOb9111dda0207b0756494056007ae967f38719a59png (of size 704) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:03:10 PM] httpscdnmodrinthcomdataXaonJnsc50f76c6946633c8910a50cac689d4329d37dc9dfgif (of size 96524) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:03:10 PM] httpscdnmodrinthcomdataOvPFpJjO9149b52bcda782859cd6150ca7fd21b585f9c046jpeg (of size 12140) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:03:38 PM] httpscdnmodrinthcomdatakih5VmNod2d6216e798be2858f4eda25b62bc707f5e7be78png (of size 888) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:03:38 PM] httpscdnmodrinthcomdatali7SBqe6c2516254c84ba2c0dc2d6ed4f1401b9bdd7bbaf4png (of size 2885) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:04:04 PM] httpscdnmodrinthcomdata4j2IMXWX066fe0d4586a1b74a642393c9b81d8cab62257efpng (of size 701) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:04:22 PM] httpscdnmodrinthcomdataCGMMa4Ji31e0b6937860f3a70422df1aca79e58ead6c11a3png (of size 3047) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:04:22 PM] httpscdnmodrinthcomdataTNwnxPWE573198d7a443dcf7d1a0704504a16ff7fc9cb7e4jpeg (of size 1504) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:04:22 PM] httpscdnmodrinthcomdatar1TElRR80924bdf586771ee81cc95febaaf3576913cced81png (of size 403) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:04:36 PM] httpscdnmodrinthcomdataN8j779sn5e93b6cbe6544fae32391d89012afaeb2fad2c26png (of size 2124) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:04:36 PM] httpscdnmodrinthcomdatagxUihgVwfc96bb5326578f80b1a245ecce2555373d47cdefpng (of size 860) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:04:55 PM] httpscdnmodrinthcomdataFNvNBVqtf754c3c1d6d3919ea5e73eb9f8afdd2c3f4a24aapng (of size 304) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:04:55 PM] httpscdnmodrinthcomdata55ENkzUx4fd7c84f743158f2e0898f5a8d2365d08b64fdbcpng (of size 184) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:05:11 PM] httpscdnmodrinthcomdataWUalicqi06a2b946c63d6b2d57e11cd5c762f4d823087b03png (of size 1114) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:05:11 PM] httpscdnmodrinthcomdataKREjC4Bod3eda4a0d8e2112a98b29ab9534e9b9e1fd48a95png (of size 367) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:05:11 PM] httpscdnmodrinthcomdataKiFpblnHeb18860ebdac0b16c2d82197d99fa4478f051d42png (of size 3233) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:05:12 PM] httpscdnmodrinthcomdataEJfV67NC93ed6ff0450d80855432d3b73fd240378c076de7png (of size 4714) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:05:25 PM] httpscdnmodrinthcomdataAZUZhdiB12795e830948e49c5a8af7fa4f7157f55ed2e15cpng (of size 3467) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:05:26 PM] httpscdnmodrinthcomdataLHVsUxbic2ffe1216bed6a9949bd5ea3ff5034a229378560png (of size 747) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:05:26 PM] httpscdnmodrinthcomdataK0psvV8X34840719349cbcdafe8e4e78ec02c8253256ada4png (of size 873) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:05:26 PM] httpscdnmodrinthcomdata1UhWoJiz4a6413e262eaa76d5a1d3522c89f16e189f25f58gif (of size 36170) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:05:26 PM] httpscdnmodrinthcomdataur3m7B1i63bea38bfe507eee6bf57bd63a1e797230536e48png (of size 2576) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:05:26 PM] httpscdnmodrinthcomdata4swcjcwrab340135fa4301a1fbc806ca564b8285d7726b28png (of size 2484) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:12:03 PM] CurseForge API returned no results for https://api.curseforge.com/v1/mods/search?gameId=432&amp;classId=6&amp;searchFilter=horror&amp;sortField=Popularity&amp;sortOrder=desc&amp;pageSize=20&amp;index=0&amp;modLoaderTypes=[
+  4
+]&amp;gameVersion=1.21&amp;categoryId=6484
+[07/09/2025 14:12:13 PM] httpscdnmodrinthcomdatafgon4GGlcfa61ee13eb897eea8d0e9ea2e7a60032a55b625jpeg (of size 4632) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:12:13 PM] httpscdnmodrinthcomdataU7O6jY2Bb69b16a21141faa26d2db6cfb2509fdd9c70d883png (of size 10630) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:12:13 PM] httpscdnmodrinthcomdataawWvXlb20785a45fcfda03f3b6a550c881f238f4770bca89png (of size 1519) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:12:39 PM] httpscdnmodrinthcomdataGAIa01Mzbdf762d1dfc62faf6f1165c5bed20df2c4e008a1png (of size 962) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:12:39 PM] httpscdnmodrinthcomdatauvpKDJJr99d6573ace2b9fb001942563daed4dbf5d1d50f8png (of size 475) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:12:39 PM] httpscdnmodrinthcomdataP29i0RkNcacf5f5295e7e54dae6dd4ba8f34434739367a61png (of size 5361) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:12:39 PM] httpscdnmodrinthcomdatap1Gta4IP6dd731031ef35819e46a46da4cde29decd49b564png (of size 1129) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:12:39 PM] httpscdnmodrinthcomdataqNDT3d1F4564060eb7905674e824703c3f63b7a9df9aefe6gif (of size 40902) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:12:39 PM] httpscdnmodrinthcomdatazWOXoXzb80e7878678ebf90b78d81f5d229f13033f770f18png (of size 862) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:12:39 PM] httpscdnmodrinthcomdatamBSHALKK946e234ade32900d9e3ca42aeb08a6c038c37993png (of size 968) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:12:39 PM] httpscdnmodrinthcomdatabDA9ozpC0b03404b171e0d75e21693c1dcd27e765845dec0png (of size 763) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:12:39 PM] httpscdnmodrinthcomdatadInQkabf87b72028133dda8278e4ea5d3e36720e7e2256c5png (of size 453) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:12:43 PM] httpscdnmodrinthcomdatawspuC1ePfbff785fa2a846c109bd0b8a889a2eddd90bb999png (of size 6703) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:12:43 PM] httpscdnmodrinthcomdataWOXiUTVPb61b34ce33a39ff5d6cce539eda7166cf97865f3png (of size 3964) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:12:43 PM] httpscdnmodrinthcomdataviNE8C7nb7a6a29b508273878493d2a0ef3e6bf199f199aapng (of size 916) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:12:43 PM] httpscdnmodrinthcomdataZP5jOmvU331fa9487a56b4cba8881256acb0bf5fde27d5d2png (of size 1330) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:12:43 PM] httpscdnmodrinthcomdatajPmRPXR57f09286378b803e973667d4f38dae4abe8c56de2png (of size 291) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:13:22 PM] httpscdnmodrinthcomdataeaDDOurKebe7b78dd29b5f9f3ab92b4db96da2dc262f7ccepng (of size 653) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:13:22 PM] httpscdnmodrinthcomdataNjWEFcGp09ce4b5f421bf86f631342b21398edfcfebb712fpng (of size 939) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:13:22 PM] httpscdnmodrinthcomdataYOfExNwt765494e2bfb77cda15bfd066c0d3db04ce38eb81png (of size 2292) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:13:53 PM] httpscdnmodrinthcomdatagtsvJo80iconpng (of size 318) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:13:53 PM] httpscdnmodrinthcomdatacSKMfEiRa64c8b1d1a0a790d39648a9e795139da00e76112png (of size 2765) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:13:53 PM] httpscdnmodrinthcomdatafLAIO8XF2b28d7e01921d9c314da85ff0c50ab3f02291a41jpeg (of size 11298) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:14:24 PM] httpscdnmodrinthcomdataCcxcmoLQa9d58591f825cdd6d0d9e0244c5bbd46740c3450jpg (of size 8466) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:14:30 PM] httpscdnmodrinthcomdatajD7tenmB36351be460d2cdced59029719f10c8a301b63e46png (of size 15547) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:14:30 PM] httpscdnmodrinthcomdataitHGiR2viconpng (of size 634) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:14:30 PM] httpscdnmodrinthcomdata1TowMm2v56e2740b28ea9263cc6099f629c03193b55a2975png (of size 570) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:15:22 PM] httpscdnmodrinthcomdataIAvnm8Mq0ecccdb02a3411d1a005f6b257233ca26df0aa02png (of size 262) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:15:39 PM] httpscdnmodrinthcomdata6DnswkCZ4ae021b605d2ab18399e240afae1a898a523788cpng (of size 17382) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:15:39 PM] httpscdnmodrinthcomdataQpeB9IbWe247abbfcc715232f1f7e1891e3cc3f2255a3101jpeg (of size 15203) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:15:39 PM] httpscdnmodrinthcomdatajGVzcXaf58b4b2d23eca5c02bbb433f07b183c7604771ae6png (of size 2081) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:16:07 PM] httpscdnmodrinthcomdatalg1TPRFm2682c157838844988311430e5dcab0c1ea0bb3c7png (of size 1518) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:16:07 PM] httpscdnmodrinthcomdataKpFrt74y11c323e272fde9e8cd6b7fc3e8a31acf112ba44epng (of size 905) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:17:52 PM] httpscdnmodrinthcomdataqvIfYCYJiconpng (of size 1142) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:44:44 PM] httpscdnmodrinthcomdataAe6qoBj3e61d5d8f7f14096fd7040f686f99a1f6a7c9b332png (of size 861) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:44:44 PM] httpscdnmodrinthcomdatat4Ybtys2f84f9785be9ce709aa25c1fd1ce93d91d086726dpng (of size 3968) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:44:44 PM] httpscdnmodrinthcomdataBzOTnuqMb406f1b685304e91a9ac51de490aa3521c8af484png (of size 1258) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:44:59 PM] httpscdnmodrinthcomdatanHORcEHd1b5d79c6ec1b033725352efbb83bac451efaba85png (of size 1834) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:45:10 PM] httpscdnmodrinthcomdataMLwQGRjp100175db07544a45f5e792174aaae9d9f1206a4bpng (of size 11643) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:45:10 PM] httpscdnmodrinthcomdataTl8ESrhXiconpng (of size 846) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:45:10 PM] httpscdnmodrinthcomdataCvX6rOtB5a446fac8d0c52d8be302aa61e62ff3a84c5b67cpng (of size 976) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:45:24 PM] httpscdnmodrinthcomdataFZGNeNIO8d05cbb79f0389b2c974a3b4b2de71c4271cb967png (of size 6343) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:45:24 PM] httpscdnmodrinthcomdatabii8qPSt01768cf4a8e2e0978d74a82b8ebb8b569c5dfe91png (of size 6433) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:45:51 PM] httpscdnmodrinthcomdata29SwBNOkf58f87cb7bc42f414fa29c35033bee1aa35ce8c8png (of size 689) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:54:41 PM] httpscdnmodrinthcomdataCXd6g9xpb1e963152af2174d420b7b60946205fcdaefd8d7png (of size 819) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:54:41 PM] httpscdnmodrinthcomdataDw7M6XKWiconpng (of size 521) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:54:44 PM] httpscdnmodrinthcomdatayn9u3ypma933032aa191fdc43cd439074f5713f8351e7af9png (of size 12325) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:54:44 PM] httpscdnmodrinthcomdataznHQQtuUa0b97c0306ac9507bca7b81059fb146051596e08gif (of size 19132) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:54:44 PM] httpscdnmodrinthcomdata5ibSyLAzcb998de47289a6b0f4022106088870be27d3d5e2png (of size 318) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:54:44 PM] httpscdnmodrinthcomdataAhtxbnpGb3d582ccdfb2c1332bb994d97a02ea5f393a4722png (of size 9637) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:55:17 PM] httpscdnmodrinthcomdataLTTvOp5Lea2f931c89c74b97d60df0a8048bea679a8123a8gif (of size 50328) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:55:17 PM] httpscdnmodrinthcomdatatJzrFuyy44ebf30cca22d764ffffd3428bc7613e58e7a69fpng (of size 1205) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:55:17 PM] httpscdnmodrinthcomdataguitPqEi58b4229c52876eff66c9f98a5d2a1e9b9f648501png (of size 348) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:55:17 PM] httpscdnmodrinthcomdatani4SrKmqiconpng (of size 304) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:55:17 PM] httpscdnmodrinthcomdatadaHYok8P5030ea239aacad18b5c15fd8eac6fefd41b467d2png (of size 698) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:55:25 PM] httpscdnmodrinthcomdataHtGckJVc2390215bab01b0c8a75884f0402208408ed279e7png (of size 634) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:55:25 PM] httpscdnmodrinthcomdataSQeCtvGg76900347c7e018b9eeaabbaf308e05de647156d1png (of size 9093) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:55:25 PM] httpscdnmodrinthcomdataIK1wshSh7404ee58ce926bab313e0e247c1aa546b576637fpng (of size 719) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:55:34 PM] httpscdnmodrinthcomdatarhlxxfpH9e9558727bab21bb5eab044f875a0c46a618250bpng (of size 435) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:55:34 PM] httpscdnmodrinthcomdatako8Qabo120c8e6917a98edb6eba063fdfb6137d0063c86f3png (of size 197) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:55:34 PM] httpscdnmodrinthcomdatamTI5Xg5Ficonpng (of size 5933) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:55:34 PM] httpscdnmodrinthcomdataJrrZfsph13f2567a7f91e877c3f223086f8c3a5014aeb7fdpng (of size 250) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:56:42 PM] httpscdnmodrinthcomdatavvuO3ImH2a7323ca80849de0bcb50299e18acdf8bf394682png (of size 996) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:56:55 PM] httpscdnmodrinthcomdataCNYyGWn5iconpng (of size 8336) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:56:55 PM] httpscdnmodrinthcomdataVD1aynYUe40145fd1e52dfbe3a4a852773f0ee088b6c9b83png (of size 3832) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:56:55 PM] httpscdnmodrinthcomdataHkc2j5Bfe3f10e985d8005dea26575f21f14d6796a8445c1png (of size 294) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:56:55 PM] httpscdnmodrinthcomdatakpMfA3120a516efaa5f7c71d62179236ef800cef62f81357png (of size 814) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:56:55 PM] httpscdnmodrinthcomdatai2u9r3liiconpng (of size 4771) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:57:30 PM] httpscdnmodrinthcomdataboh1JJow0f876f51a4a9cc44376c802abe744781981286bapng (of size 6455) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:57:30 PM] httpscdnmodrinthcomdata5Osk0m1Giconpng (of size 3150) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:57:30 PM] httpscdnmodrinthcomdataFbHSPTyF53c4aea19ae2c8a357f8b49d0e808895ee4d3e9dpng (of size 505) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:57:30 PM] httpscdnmodrinthcomdata6pku8gW1c39fb477556c14c971678ad148ee9149a438e0abpng (of size 1132) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:57:49 PM] httpscdnmodrinthcomdataH5uBVVRE8fca45cccec39d89100341edb85ea1fdb5969f7apng (of size 2400) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:57:49 PM] httpscdnmodrinthcomdataEdBSdqgec3683238ee4b794847a1987dfe36feca07aca670png (of size 4107) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:57:49 PM] httpscdnmodrinthcomdataCvi9zjQ7ddc2cf2dd10228b1cfce86f4a938c647a92bfbdfpng (of size 1526) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:57:49 PM] httpscdnmodrinthcomdataUYrNpKJNd9b2044d56bea6176d7bd3cc9d734db797f7487fgif (of size 107270) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:57:49 PM] httpscdnmodrinthcomdata4XFSzxty8c63b62f849d75bf26183b8d7c719106bef06959png (of size 5956) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:57:49 PM] httpscdnmodrinthcomdatatLuRLqpa1b5575753dd926e1bbdf2cc2ee2a5a8b4501cb56png (of size 5139) hash didn't match, but we're ignoring failures, so continuing
+[07/09/2025 14:58:02 PM] Preparing for launch!
+[07/09/2025 14:58:19 PM] Launching pack Minecraft 1.21 (Vanilla) for Minecraft 1.21
+[07/09/2025 14:58:19 PM] Logging into Minecraft!
+[07/09/2025 14:58:19 PM] Using Java runtime java-runtime-delta (Java 21.0.7) at path **USERSDIR**\runtimes\minecraft\java-runtime-delta\windows-x64\java-runtime-delta
+[07/09/2025 14:58:19 PM] Loader: Fabric 0.17.2
+[07/09/2025 14:58:19 PM] Mods:
+[07/09/2025 14:58:19 PM]  - \2032-world-height-1.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \aaa-particles-fabric-1.21-1.4.12.jar (Added)
+[07/09/2025 14:58:19 PM]  - \aaa_particles_world-fabric-1.21-1.0.3.jar (Added)
+[07/09/2025 14:58:19 PM]  - \accessories-fabric-1.0.0-beta.35+1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \accurate-block-placement-1.2.5.jar (Added)
+[07/09/2025 14:58:19 PM]  - \adult-zombies-only-0.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \AlwaysInfectMod-1.0.0-1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \AmbientSounds_FABRIC_v6.0.4_mc1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \animal_armor_trims-merged-1.21-2.0.0.jar (Added)
+[07/09/2025 14:58:19 PM]  - \AnvilNeverTooExpensive-fabric-1.21+-1.2.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \AnvilNeverTooExpensive-fabric-1.21-1.2.jar (Added)
+[07/09/2025 14:58:19 PM]  - \appleskin-fabric-mc1.21-3.0.5.jar (Added)
+[07/09/2025 14:58:19 PM]  - \appleskin-fabric-mc1.21-3.0.6.jar (Added)
+[07/09/2025 14:58:19 PM]  - \architectury-13.0.8-fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \BadOptimizations-2.1.4-1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \balm-fabric-1.21.1-21.0.39.jar (Added)
+[07/09/2025 14:58:19 PM]  - \balm-fabric-1.21.1-21.0.41.jar (Added)
+[07/09/2025 14:58:19 PM]  - \bclib-21.0.13.jar (Added)
+[07/09/2025 14:58:19 PM]  - \BEB-Fabric-1.21-5.0.0.jar (Added)
+[07/09/2025 14:58:19 PM]  - \better-end-21.0.11.jar (Added)
+[07/09/2025 14:58:19 PM]  - \betterarcheology-fabric-1.3.2.jar (Added)
+[07/09/2025 14:58:19 PM]  - \BetterBeacons-Fabric-1.21.1-2.1.0.jar (Added)
+[07/09/2025 14:58:19 PM]  - \betterendcities-vanilla-1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \BetterF3-11.0.1-Fabric-1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \betterhurtcam-1.9.1+mc1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \BetterPingDisplay-Fabric-1.21-1.1.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \BetterThanMending-fabric-2.1.0.jar (Added)
+[07/09/2025 14:58:19 PM]  - \BetterThirdPerson-Fabric-1.21-1.9.0.jar (Added)
+[07/09/2025 14:58:19 PM]  - \BetterTrims-3.2.8-fabric+1.21.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \bettervillage-fabric-1.21.0-3.3.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \BiomesOPlenty-fabric-1.21-21.0.0.18.jar (Added)
+[07/09/2025 14:58:19 PM]  - \blastingclay-1.21.1-fabric-1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \blastingraw-1.21.1-fabric-3.jar (Added)
+[07/09/2025 14:58:19 PM]  - \blastingsand-fabric-1.21.1-12.3.jar (Added)
+[07/09/2025 14:58:19 PM]  - \block-counter-1.3.4-for-minecraft-1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \blur-4.1.0.jar (Added)
+[07/09/2025 14:58:19 PM]  - \blur-fabric-5.2.2+1.21.1+1.21.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \calcmod-1.3.2+fabric.1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \capes-1.5.4+1.21-fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \Carpet-AMS-Addition-mc1.21-fabric-v2.54.0.jar (Added)
+[07/09/2025 14:58:19 PM]  - \Carpet-AMS-Addition-mc1.21-fabric-v2.57.6.jar (Added)
+[07/09/2025 14:58:19 PM]  - \cavespiderspawn-1.21.1-1.2.jar (Added)
+[07/09/2025 14:58:19 PM]  - \CerbonsAPI-Fabric-1.21-1.2.0.jar (Added)
+[07/09/2025 14:58:19 PM]  - \chas-1.21-3.0-fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \ChatImage-1.2.5+1.21+fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \chatplus-fabric-2.6.0.jar (Added)
+[07/09/2025 14:58:19 PM]  - \chat_heads-0.12.10-fabric-1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \Chunky-1.4.16.jar (Added)
+[07/09/2025 14:58:19 PM]  - \Chunky-Fabric-1.4.23.jar (Added)
+[07/09/2025 14:58:19 PM]  - \cicada-lib-0.14.2+1.21-1.21.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \cloth-config-15.0.140-fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \Clumps-fabric-1.21-18.0.0.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \Clumps-fabric-1.21-18.0.0.2.jar (Added)
+[07/09/2025 14:58:19 PM]  - \cobweb-fabric-1.21-1.3.3.jar (Added)
+[07/09/2025 14:58:19 PM]  - \collective-1.21.1-7.87.jar (Added)
+[07/09/2025 14:58:19 PM]  - \collective-1.21.1-8.3.jar (Added)
+[07/09/2025 14:58:19 PM]  - \compact_storage-1.21-fabric-8.0.75.jar (Added)
+[07/09/2025 14:58:19 PM]  - \conduitspreventdrowned-1.21.1-3.8.jar (Added)
+[07/09/2025 14:58:19 PM]  - \Configurable-2.2.3-fabric-yarn+1.21.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \continuity-3.0.0+1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \Controlling-fabric-1.21-18.0.4.jar (Added)
+[07/09/2025 14:58:19 PM]  - \copperhopper-0.9.3+1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \CraftableChainmail-fabric-1.21-1.6.7.jar (Added)
+[07/09/2025 14:58:19 PM]  - \craftable_enchanted_golden_apple-1.0.7.jar (Added)
+[07/09/2025 14:58:19 PM]  - \crawl-0.13.0.jar (Added)
+[07/09/2025 14:58:19 PM]  - \CreativeCore_FABRIC_v2.12.6_mc1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \CreeperOverhaul-fabric-1.21.1-4.0.6.jar (Added)
+[07/09/2025 14:58:19 PM]  - \cristellib-fabric-1.2.8.jar (Added)
+[07/09/2025 14:58:19 PM]  - \Crops-Love-Rain-2.1.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \Crossbow-Enchants-1.4.0+1.21-1.21.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \cryptid-1.0.8.jar (Added)
+[07/09/2025 14:58:19 PM]  - \cupboard-fabric-1.21-2.9.jar (Added)
+[07/09/2025 14:58:19 PM]  - \cursed-table-revamped_1.0.1+1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \cwb-fabric-3.0.0+mc1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \damagenumbers-1.4.1-fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \dark-loading-screen-1.6.14.jar (Added)
+[07/09/2025 14:58:19 PM]  - \darkglint-fabric-1.21-1.1.4.jar (Added)
+[07/09/2025 14:58:19 PM]  - \Debugify-1.21+1.0.jar (Added)
+[07/09/2025 14:58:19 PM]  - \deeperdarker-fabric-1.21-1.3.3.jar (Added)
+[07/09/2025 14:58:19 PM]  - \deimos-1.21.1-fabric-2.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \deimos-1.21.1-fabric-2.3.jar (Added)
+[07/09/2025 14:58:19 PM]  - \DiagonalWindows-v21.0.0-1.21-Fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \disconnect-packet-fix-fabric-2.0.0.jar (Added)
+[07/09/2025 14:58:19 PM]  - \DistantHorizons-2.2.1-a-1.21.1-neo-fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \DontClearChatHistory-Fabric-NeoForge-1.21.x.jar (Added)
+[07/09/2025 14:58:19 PM]  - \do_a_barrel_roll-fabric-3.7.3+1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \dragonloot-1.1.6.jar (Added)
+[07/09/2025 14:58:19 PM]  - \duckling-fabric-1.21-5.0.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \dynamic-fps-3.6.3+minecraft-1.21.0-fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \dynamic-fps-3.9.5+minecraft-1.21.0-fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \EasyAnvils-v21.0.5-1.21-Fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \EasyShulkerBoxes-v21.0.3-1.21-Fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \eating-animation-1.21+1.9.72.jar (Added)
+[07/09/2025 14:58:19 PM]  - \effective-invisibility-1.0.1-mc1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \elytraslot-fabric-9.0.1+1.21.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \emoji-type-2.2.5+1.21-fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \enchant-channeling-2-1.0.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \enchant-plus-0.2.8.jar (Added)
+[07/09/2025 14:58:19 PM]  - \enchant-tooltips-1.0.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \enchantableshulkerbox-0.2.0-mc1.21-fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \enchantedgoldenapple-1.0.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \EnchantedGoods-0.1.5.jar (Added)
+[07/09/2025 14:58:19 PM]  - \enchantmentcompat-1.5.0+1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \enchantmentlevelcapindicator-1.21.1-1.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \Enchants+ 1.21 - 1.21.1 fabric-forge.jar (Added)
+[07/09/2025 14:58:19 PM]  - \enchant_plus-1.1.3.jar (Added)
+[07/09/2025 14:58:19 PM]  - \entityculling-fabric-1.6.6-mc1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \entityculling-fabric-1.8.2-mc1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \entity_model_features_1.21-fabric-3.0.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \entity_texture_features_1.21-fabric-7.0.2.jar (Added)
+[07/09/2025 14:58:19 PM]  - \EuphoriaPatcher-1.6.5-r5.5.1-fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \expanded-armor-enchanting-1.0.8.jar (Added)
+[07/09/2025 14:58:19 PM]  - \expanded-bow-enchanting-1.1.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \expanded-crossbow-enchanting-1.0.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \expanded-trident-enchanting-1.0.10.jar (Added)
+[07/09/2025 14:58:19 PM]  - \expanded-weapon-enchanting-1.1.0.jar (Added)
+[07/09/2025 14:58:19 PM]  - \expcounter-1.21.1-fabric-2.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \Explorify v1.6.2 f10-48.jar (Added)
+[07/09/2025 14:58:19 PM]  - \fabric-api-0.102.0+1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \fabric-carpet-1.21-1.4.147+v240613.jar (Added)
+[07/09/2025 14:58:19 PM]  - \fabric-language-kotlin-1.12.0+kotlin.2.0.10.jar (Added)
+[07/09/2025 14:58:19 PM]  - \fabric-language-kotlin-1.13.5+kotlin.2.2.10.jar (Added)
+[07/09/2025 14:58:19 PM]  - \fabrishot-1.14.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \fallingleaves-1.17.1+1.21.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \FastMinecart-v1.0.2.jar (Added)
+[07/09/2025 14:58:19 PM]  - \fence_on_slab-fabric-1.21-1.0.0.jar (Added)
+[07/09/2025 14:58:19 PM]  - \ferritecore-7.0.0-fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \firstperson-fabric-2.5.0-mc1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \Floating Items Enchanting Table 1.21.x.jar (Added)
+[07/09/2025 14:58:19 PM]  - \ForgeConfigAPIPort-v21.0.1-1.21-Fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \ForgeConfigAPIPort-v21.0.8-1.21-Fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \freecam-fabric-1.3.0+mc1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \freecam-fabric-modrinth-1.3.0+mc1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \friendsandfoes-fabric-4.0.8+mc1.21.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \From-The-Fog-1.21-1.21.1-v1.9.4-Forge-Fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \funcysWanderingTraderTrades-1.0.8.jar (Added)
+[07/09/2025 14:58:19 PM]  - \Galosphere-1.21-1.4.2-Fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \gamingbarns-zombies-V1.16.2-data.jar (Added)
+[07/09/2025 14:58:19 PM]  - \geckolib-fabric-1.21-4.5.8.jar (Added)
+[07/09/2025 14:58:19 PM]  - \Geophilic v3.2 f15-61.jar (Added)
+[07/09/2025 14:58:19 PM]  - \geyser-fabric-Geyser-Fabric-2.4.4-b705.jar (Added)
+[07/09/2025 14:58:19 PM]  - \GlitchCore-fabric-1.21-2.0.0.3.jar (Added)
+[07/09/2025 14:58:19 PM]  - \gpumemleakfix-fabric-1.21-1.8.jar (Added)
+[07/09/2025 14:58:19 PM]  - \gravelminer-fabric-1.21.1-21.1.2.jar (Added)
+[07/09/2025 14:58:19 PM]  - \head_in_the_clouds-1.1.0.jar (Added)
+[07/09/2025 14:58:19 PM]  - \healthcommand-fabric-1.21-1.4.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \ImmediatelyFast-Fabric-1.2.19+1.21.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \ImmediatelyFast-Fabric-1.6.6+1.21.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \ImmersiveThunder-1.21+1.2.2.jar (Added)
+[07/09/2025 14:58:19 PM]  - \immersive_optimization-fabric-1.21-0.0.4.jar (Added)
+[07/09/2025 14:58:19 PM]  - \Incendium_1.21.x_v5.4.4.jar (Added)
+[07/09/2025 14:58:19 PM]  - \indium-1.0.35+mc1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \infinities-1.2+1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \inventoryhud.fabric.1.21-3.4.24.jar (Added)
+[07/09/2025 14:58:19 PM]  - \inventorymanagement-1.6.0+1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \InventorySorter-1.9.0-1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \InvMove-1.21-0.8.8-Fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \iris-fabric-1.8.8+mc1.21.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \item-placer-1.6.jar (Added)
+[07/09/2025 14:58:19 PM]  - \Jade-1.21-Fabric-15.1.5.jar (Added)
+[07/09/2025 14:58:19 PM]  - \jamlib-fabric-1.3.5+1.21.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \jei-1.21.1-fabric-19.22.1.316.jar (Added)
+[07/09/2025 14:58:19 PM]  - \JJElytraSwap-2.01 (2).jar (Added)
+[07/09/2025 14:58:19 PM]  - \justmobheads-1.21.1-8.3.jar (Added)
+[07/09/2025 14:58:19 PM]  - \justplayerheads-1.21.1-4.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \knightlib-fabric-1.21.1-1.3.0.jar (Added)
+[07/09/2025 14:58:19 PM]  - \knightquest-fabric-1.21.1-1.9.0.jar (Added)
+[07/09/2025 14:58:19 PM]  - \konkrete_fabric_1.9.9_MC_1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \krypton-0.2.8.jar (Added)
+[07/09/2025 14:58:19 PM]  - \liberty-villagers-mod-1.0.15+fabric+1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \libraryferret-fabric-1.21.0-4.0.0.jar (Added)
+[07/09/2025 14:58:19 PM]  - \litematica-fabric-1.21-0.19.57.jar (Added)
+[07/09/2025 14:58:19 PM]  - \litematica-fabric-1.21-0.19.59.jar (Added)
+[07/09/2025 14:58:19 PM]  - \litematica-printer-1.21-3.5.0-sakura.4.jar (Added)
+[07/09/2025 14:58:19 PM]  - \litematica-server-paster-v1.3.4-mc1.21.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \lithium-fabric-mc1.21-0.13.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \lithostitched-fabric-1.21.1-1.4.11.jar (Added)
+[07/09/2025 14:58:19 PM]  - \lqhp-low_quality-horror-project-1.nf.jar (Added)
+[07/09/2025 14:58:19 PM]  - \malilib-fabric-1.21-0.21.7.jar (Added)
+[07/09/2025 14:58:19 PM]  - \malilib-fabric-1.21-0.21.9.jar (Added)
+[07/09/2025 14:58:19 PM]  - \melody_fabric_1.0.10_MC_1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \mes-1.4.6-1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \mine-spawners-1.4.2.jar (Added)
+[07/09/2025 14:58:19 PM]  - \minihud-fabric-1.21-0.32.57.jar (Added)
+[07/09/2025 14:58:19 PM]  - \MobPlaques-v21.0.0-1.21-Fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \modernfix-fabric-5.19.1+mc1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \modmenu-11.0.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \modmenu-11.0.3.jar (Added)
+[07/09/2025 14:58:19 PM]  - \monolib-fabric-1.21.1-2.0.0.jar (Added)
+[07/09/2025 14:58:19 PM]  - \monsters-in-the-closet-1.0.3+1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \moonlight-1.21-2.23.3-fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \morechathistory-1.3.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \MouseTweaks-fabric-mc1.21-2.26.jar (Added)
+[07/09/2025 14:58:19 PM]  - \mru-0.4.4+1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \mru-1.0.16+1.21.1+fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \MutantsZombies-0.9.9-Fabric-mc1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \neoenchant-5.10.jar (Added)
+[07/09/2025 14:58:19 PM]  - \NetherChested-v21.0.1-1.21-Fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \netherportalfix-fabric-1.21.1-21.1.3.jar (Added)
+[07/09/2025 14:58:19 PM]  - \new_slab_variants-merged-1.21.1-3.0.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \nighttime-0.1.0-beta.jar (Added)
+[07/09/2025 14:58:19 PM]  - \no-more-purple-1.2.3+1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \no-resource-pack-warnings-1.3.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \nohostilesaroundcampfire-1.21.1-7.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \noisium-fabric-2.3.0+mc1.21-1.21.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \notenoughanimations-fabric-1.10.2-mc1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \Nullscape_1.21.x_v1.2.13.jar (Added)
+[07/09/2025 14:58:19 PM]  - \nyctophobia-dread-5.jar (Added)
+[07/09/2025 14:58:19 PM]  - \nyfsspiders-fabric-1.21-2.3.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \omnihopper-2.3.2+1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \owo-lib-0.12.11+1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \owo-lib-0.12.15.4+1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \particular-1.1.1+1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \Paxi-1.21.1-Fabric-5.1.3.jar (Added)
+[07/09/2025 14:58:19 PM]  - \PickUpNotifier-v21.0.0-1.21-Fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \placeholder-api-2.4.2+1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \playertickfreezer.jar (Added)
+[07/09/2025 14:58:19 PM]  - \Prism-1.21-fabric-1.0.8.jar (Added)
+[07/09/2025 14:58:19 PM]  - \PuzzlesLib-v21.0.13-1.21-Fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \PuzzlesLib-v21.0.28-1.21-Fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \randomsheepcolours-1.21.1-3.4.jar (Added)
+[07/09/2025 14:58:19 PM]  - \reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar (Added)
+[07/09/2025 14:58:19 PM]  - \RegionsUnexploredFabric-0.5.6.1+1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \replaymod-1.21-2.6.23.jar (Added)
+[07/09/2025 14:58:19 PM]  - \resourcefulconfig-fabric-1.21-3.0.11.jar (Added)
+[07/09/2025 14:58:19 PM]  - \resourcefullib-fabric-1.21-3.0.12.jar (Added)
+[07/09/2025 14:58:19 PM]  - \rightclickharvest-fabric-4.5.3+1.21.1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \RoughlyEnoughItems-16.0.799-fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \scorched-1.1.4a.jar (Added)
+[07/09/2025 14:58:19 PM]  - \screenshot-to-clipboard-fabric-1.0.10.jar (Added)
+[07/09/2025 14:58:19 PM]  - \Searchables-fabric-1.21-1.0.5.jar (Added)
+[07/09/2025 14:58:19 PM]  - \serversidehorror-1.21.1-fabric-2.1-beta-1.jar (Added)
+[07/09/2025 14:58:19 PM]  - \servux-fabric-1.21-0.3.12.jar (Added)
+[07/09/2025 14:58:19 PM]  - \shulkerboxtooltip-fabric-5.0.4+1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \shulkerboxtooltip-fabric-5.1.2+1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \silk-all-1.10.7.jar (Added)
+[07/09/2025 14:58:19 PM]  - \simpleshulkerpreview-v2.4.4-1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \skinlayers3d-fabric-1.6.6-mc1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \skinlayers3d-fabric-1.9.0-mc1.21.jar (Added)
+[07/09/2025 14:58:19 PM]  - \skinrestorer-2.2.1+1.21-fabric.jar (Added)
+[07/09/2025 14:58:19 PM]  - \smarterf
